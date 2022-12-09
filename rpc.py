@@ -11,11 +11,11 @@ large_text = "Free And Open Source"
 
 #button1 config
 Buton1Label = "The Github!"
-Buton1Url = "https://github.com/Soylol"
+Buton1Url = "https://github.com/3v1"
 
 #button2 config
 Buton2Label = "The Github! Again"
-Buton2Url = "https://github.com/Soylol"
+Buton2Url = "https://github.com/3v1"
 
 RPC = Presence(client_id=client_id)
 RPC.connect()
